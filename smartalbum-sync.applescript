@@ -1,1 +1,2 @@
-tell application "Photos" to add (get media items of album "For Photosync") to (get album "Photosync")
+tell application "Photos" to add (get media items of album "No album") to (get album "Photosync")
+
